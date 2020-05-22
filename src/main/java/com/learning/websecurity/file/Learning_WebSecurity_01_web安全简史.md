@@ -2,6 +2,8 @@
 > 通过这本书，让我对Web上可能存在的威胁，可能存在的攻击方式，以及如何具有针对性的，在不同的阶段实施不同的防御
 
 ## ROUND-01 Web安全简史
+- 简单结构图
+![篇章脑图](https://raw.githubusercontent.com/CzyerChen/web-security/master/src/main/resources/img/%E7%99%BD%E5%B8%BD%E5%AD%90-web%E5%AE%89%E5%85%A8%E7%AE%80%E5%8F%B2.jpg)
 ### 1.趣味简介
 - exploit
 黑客们使用的漏洞利用代码
